@@ -1,6 +1,8 @@
 # ElectricEgghead.github.io
 
-Github page for the educational video game studio, Electric Egghead.
+https://electricegghead.github.io/
+
+Github page for the indie educational video game studio, Electric Egghead.
 
 Create Your Utopia,
 Ashleigh
