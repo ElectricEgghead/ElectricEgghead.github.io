@@ -4,5 +4,5 @@ https://electricegghead.github.io/
 
 Github page for the indie educational video game studio, Electric Egghead.
 
-Create Your Utopia,
+Contribute Your Difference,
 Ashleigh
