@@ -9,6 +9,7 @@
 img {
 width: 100%;
 }
+
 #page-container {
   position: relative;
   min-height: 100vh;
@@ -26,16 +27,16 @@ width: 100%;
 }
 
 /* Move Electric Egghead logo */
-div {
+
+#move-image {
   width: 100px;
   height: 100px;
-  background-color: red;
   position: relative;
-  animation-name: example;
+  animation-name: move;
   animation-duration: 4s;
 }
 
-@keyframes example {
+@keyframes move {
   0%   {left:0px; top:0px;}
   25%  {left:200px; top:0px;}
   50%  {left:200px; top:200px;}
@@ -49,9 +50,11 @@ div {
 <center>
 <body style="background-color:#000000;">
 
- <div id="page-container">
-   <div id="content-wrap">
-     <img src="ElectricEgghead.github.io/images/electric egghead logo TRANSPARENT background.png" alt="image of Electric Egghead's logo." style="width:300px;height:300px;"></p>
+<div id="page-container">
+<div id="content-wrap">
+<div id="move-image">
+<img src="ElectricEgghead.github.io/images/electric egghead logo TRANSPARENT background.png" alt="image of Electric Egghead's logo." style="width:300px;height:300px;"></p>
+</move-image>
 
 <h1>Indie educational video game studio creating</h1>
 <h1>immersive 3D games for adults, ESL learners, and children.</h1>
@@ -65,9 +68,9 @@ div {
 <p><h3><img src="ElectricEgghead.github.io/images/discord logo yellow.jpg" alt="image of golden Discord logo." style="width:36px;height:24px;">&nbsp;&nbsp;<a href="https://discord.gg/vMvB8j6">Discord</a></h3></p>
 
 <p><h3><img src="ElectricEgghead.github.io/images/medium logo.png" alt="image of Medium (online writing community) logo." style="width:24px;height:24px;">&nbsp;&nbsp;<a href="http://tiny.cc/ElectricEggheadMedium">Medium</a></h3></p>
-   </div>
-   <footer id="footer"></footer>
- </div>
+</div>
+<footer id="footer"></footer>
+</div>
 
 </body>
 <footer>Electric Egghead &copy; 2019</footer>
