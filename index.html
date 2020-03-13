@@ -20,16 +20,34 @@ width: 100%;
 
 #footer {
   position: absolute;
-  bottom: 0;
+  bottom: 10;
   width: 100%;
   height: 2.5rem;            /* Footer height */
+}
+
+/* Move Electric Egghead logo */
+div {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  position: relative;
+  animation-name: example;
+  animation-duration: 4s;
+}
+
+@keyframes example {
+  0%   {left:0px; top:0px;}
+  25%  {left:200px; top:0px;}
+  50%  {left:200px; top:200px;}
+  75%  {left:0px; top:200px;}
+  100% {left:0px; top:0px;}
 }
 
 </style>
 
 <body>
 <center>
-<body style="background-color:#FFFFE6;">
+<body style="background-color:#000000;">
 
  <div id="page-container">
    <div id="content-wrap">
@@ -37,8 +55,9 @@ width: 100%;
 
 <h1>Indie educational video game studio creating</h1>
 <h1>immersive 3D games for adults, ESL learners, and children.</h1>
-<p>Founded by Ashleigh Bonner.</p>
-
+<h4>Founded by Ashleigh Bonner.</h4>
+<br>
+<br>
 <p><h3><img src="ElectricEgghead.github.io/images/website logo yellow.png" alt="image of golden mesh earth logo." style="width:24px;height:24px;">&nbsp;&nbsp;<a href="http://tiny.cc/ElectricEgghead">Website</a></h3></p>
 
 <p><h3><img src="ElectricEgghead.github.io/images/youtube logo yellow.jpg" alt="image of golden YouTube logo." style="width:36px;height:24px;">&nbsp;&nbsp;<a href="http://tiny.cc/ElectricEggheadYouTube">YouTube</a></p>
