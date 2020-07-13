@@ -4,8 +4,8 @@ https://electricegghead.github.io/
 
 Github page for the indie educational video game studio, Electric Egghead.
 
-Main website:
-https://tiny.cc/ElectricEgghead
+Official website:
+www.electricegghead.com
 
 Contribute Your Difference,
 
