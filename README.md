@@ -4,6 +4,8 @@ https://electricegghead.github.io/
 
 Github page for the indie educational video game studio, Electric Egghead.
 
+---------------------------
+
 WEBSITE/Game Dev Blog:
 www.electricegghead.com
 
@@ -17,6 +19,7 @@ TUMBLR: http://electricegghead.tumblr.com
 
 MEDIUM: http://medium.com/@electricegghead
 
+--------------------------
 Contribute Your Difference,
 
 Ashleigh
